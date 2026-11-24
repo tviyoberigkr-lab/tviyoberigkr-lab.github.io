@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ua.colaba.syto",
+      "sha256_cert_fingerprints": [
+        "12:C7:53:83:81:85:DA:57:E7:9D:53:2E:21:12:51:7D:ED:23:29:7F:5F:AF:64:6D:AF:EE:F4:E1:FB:5D:29:BE"
+      ]
+    }
+  }
+]
